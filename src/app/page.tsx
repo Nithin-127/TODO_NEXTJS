@@ -84,7 +84,7 @@ export default function Home() {
           </div>
           <div className="space-y-1">
             <h1 className="text-4xl sm:text-5xl font-black text-slate-900 dark:text-white tracking-tight">
-              FocusFlow
+              Todo List
             </h1>
             <p className="text-blue-600/80 dark:text-blue-400 font-bold uppercase tracking-[0.2em] text-[10px] sm:text-xs">
               Simple • Aligned • Productive
